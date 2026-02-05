@@ -1,0 +1,13 @@
+# CompositeBeam Pro v2.9 - Requirements
+# =====================================
+
+# Core
+streamlit>=1.28.0
+numpy>=1.24.0
+matplotlib>=3.7.0
+
+# Phase 2 - Metal Deck Module
+ezdxf>=1.1.0          # DXF file parsing
+
+# Phase 3 - Reports
+reportlab>=4.0.0      # PDF generation
